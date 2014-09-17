@@ -5,6 +5,8 @@ set -e
 
 ASCII=`cat ascii/homer.txt`
 
+echo testingAmit
+
 echo -e "\033[33mCongratulations!\033[0m You've successfully run your first build on Buildbox! 👍
 
 \033[33m$ASCII\033[0m
